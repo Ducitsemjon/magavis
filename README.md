@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/magavis-icon.svg" width="128" alt="Magavis app icon"></p>
+
 # Magavis — manga, manhwa and manhua translator for Android
 
 **Magavis is an Android app that translates manga, manhwa, manhua and webtoons right on your screen: it finds the speech bubbles and typesets the translation inside them, on top of any reading app or website.**
