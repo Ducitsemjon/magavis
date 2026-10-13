@@ -42,7 +42,7 @@ The page language is detected automatically. Magavis translates into **59 langua
 ### How much does it cost?
 
 - **$5 per month.** The app shows the price in your local currency.
-- **3-day free trial** of on-device translation.
+- **3-day free trial:** enter your email in the app and we send you a trial key — cloud translation included (up to 100 pages a day). One trial per person and per phone.
 - **One key works on two phones.** The key is emailed right after payment; buying again with the same email extends the same key.
 - Cloud translation includes up to 200 pages a day.
 
@@ -58,7 +58,7 @@ Yes. Magavis reads Korean text in the vertical feed; a bubble cut by the edge of
 No. Magavis works on top of any app using Android's screen capture and "display over other apps" permissions. Android 9 or newer.
 
 **Is Magavis free?**
-There is a 3-day free trial. After that the subscription is $5 per month.
+The first 3 days are free: enter your email in the app and you get a trial key, cloud translation included. After that the subscription is $5 per month.
 
 **Where do I download it?**
 Magavis is distributed as an APK on [GitHub Releases](https://github.com/Ducitsemjon/magavis/releases/latest).
@@ -70,7 +70,7 @@ Not in this version. Games, video subtitles and a custom screen area are in deve
 
 1. Download `Magavis-…-arm64.apk` from [Releases](https://github.com/Ducitsemjon/magavis/releases/latest). For older 32-bit phones, use `Magavis-…-armv7-old-phones.apk`.
 2. Open the file and allow installing from this source.
-3. On first launch: subscribe or enter your key → cloud check → "Display over other apps" permission → Start.
+3. On first launch: get a free trial key by email, subscribe or enter your key → cloud check → "Display over other apps" permission → Start.
 
 ## العربية
 
@@ -171,7 +171,7 @@ Abre el capítulo en cualquier app o web y toca el botón flotante de Magavis: l
 ### Сколько стоит?
 
 - $5 в месяц; в приложении цена показана в вашей валюте.
-- 3 дня бесплатно (перевод на телефоне).
+- 3 дня бесплатно: укажите почту в приложении — пришлём пробный ключ, облачный перевод включён (до 100 страниц в день). Один пробный ключ на человека и на телефон.
 - Один ключ — два телефона. Ключ приходит на почту сразу после оплаты; повторная покупка на ту же почту продлевает тот же ключ.
 - В облачный перевод входит до 200 страниц в день.
 
